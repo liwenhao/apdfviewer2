@@ -11,3 +11,7 @@ Why rewrite?
 - The old apdfviewer use android private libraries, must be compiled with android system.
 - Android build in freetype library does not support type1 font.
 
+What's new?
+-----------
+
+- build with NDK
