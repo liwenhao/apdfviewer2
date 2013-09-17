@@ -15,3 +15,10 @@ What's new?
 -----------
 
 - build with NDK
+
+How to build
+------------
+
+- Put source of freetype into jni/external/freetype2
+- Put source of poppler into jni/external/poppler
+- Then build with ADT and NDK
