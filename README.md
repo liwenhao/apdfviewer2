@@ -20,5 +20,5 @@ How to build
 ------------
 
 - Put source of freetype into jni/external/freetype2
-- Put source of poppler into jni/external/poppler
+- Put source of poppler into jni/external/poppler (version 0.18.4)
 - Then build with ADT and NDK
